@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ben\\source\\repos\\MVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|c:\\users\\ben\\source\\repos\\mvcapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|c:\\users\\ben\\source\\repos\\mvcapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|c:\\users\\ben\\source\\repos\\mvcapp\\webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|c:\\users\\ben\\source\\repos\\mvcapp\\webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A909842-B32D-4608-9FD7-6A8FB674BDEB}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T02:46:21.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:11:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Models\\Category.cs",
+              "RelativeToolTip": "WebApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:29:07.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ben\\source\\repos\\MVCApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:48:27.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
